@@ -1,4 +1,4 @@
-package ch.bzz.Bookshelf.service;
+package ch.bzz.bookshelf.service;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
